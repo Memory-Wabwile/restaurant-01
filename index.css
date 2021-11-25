@@ -19,13 +19,26 @@ li{
     align-items: center;
 }
 .firstdiv{
-    background-image: url("images/background1.webp" );
+    background: /*linear-gradient(135deg, rgb(0, 0, 0, .1), rgb(0, 0, 255, .4)),*/ url("images/background1.webp" );
     background-size: 100% 800px;
-    height:750px;
-    
+    height:80vh;
+
     
 }
 .content{
     text-align: center;
     color: white;
+   margin-top: 5%;
 }
+button{
+    padding: 10px 20px 10px 20px; 
+    border-radius: 25px ; 
+    color: white; 
+    background-color: #ffa600fd;
+    border: none;
+    size: 50px;
+}
+.overlay{
+    background: rgb(0, 0, 0, .5);
+    height:80vh;
+} 
