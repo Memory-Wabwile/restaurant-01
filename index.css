@@ -1,4 +1,26 @@
-li{
-    text-decoration: none;
 
+ul{
+    list-style: none;
+    display: inline-flex;
+    
+}
+li{
+    padding-right: 40px;  
+    font-size: 25px;  
+    color: white;
+    font-weight:800;
+}
+
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    height:125px;
+    background-color:rgba(0,0,0,0.4);
+    align-items: center;
+}
+.firstdiv{
+    background-image: url("images/background1.webp" );
+    background-size: 100% 800px;
+    
+    height:750px;
 }
