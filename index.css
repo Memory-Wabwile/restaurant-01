@@ -2,7 +2,7 @@
     margin: 0%;
     width: 100%;
     box-sizing: border-box;
-} */
+}  */
 ul{
     list-style: none;
     display: inline-flex;
@@ -93,12 +93,31 @@ button{
 }
 .topleft>span{
     color: hsla(34, 100%, 52%, 0.904);
+    
 }
 .thirddiv{
     background-color: rgb(232, 233, 235);
 }
+.thirdimages{
+    display: flex;
+    flex-wrap: wrap;
+    margin:20px 50px 20px 180px;
+}
 .topleft{
     background-color: white;
     width:20%;
+    margin:20px
+}
+.topleft>p{
+    font-size: 15px;
+    margin-left:20px;
+}
+.topleft>button{
+    padding:5px 10px ; 
+    font-size: 12px; 
+    margin:0px 0px 15px 20px;
+}
+.h2menu{
+    margin-left: 20px;
 }
 
