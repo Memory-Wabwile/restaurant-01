@@ -85,10 +85,20 @@ button{
 .aboutus>h2{
     font-size: 50px;
 }
-span{
+.abt{
     text-decoration:4px underline hsla(34, 100%, 52%, 0.904);
     border: none;
     font-size: 50px;
     text-underline-offset: 20px;
+}
+.topleft>span{
+    color: hsla(34, 100%, 52%, 0.904);
+}
+.thirddiv{
+    background-color: rgb(232, 233, 235);
+}
+.topleft{
+    background-color: white;
+    width:20%;
 }
 
