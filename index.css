@@ -38,7 +38,7 @@ li{
    align-items: center;
    
 }
-p{
+.content>p{
     background: rgb(0, 0, 0, .2);
 
 }
@@ -56,3 +56,39 @@ button{
     background: rgb(0, 0, 0, .5);
     height:80vh;
 } 
+.seconddiv{
+    display: flex;
+    justify-content: space-evenly;
+}
+.fimage{
+    display: flex;
+    margin:100px 100px 100px 0px;
+    column-gap:20px;
+    
+
+}
+.secondright{
+    display: flex;
+    flex-direction: column;
+    row-gap: 20px;
+}
+.secondleft{
+    margin-right: 20px;
+    
+}
+.aboutus{
+    margin:120px 100px 100px 0px;
+}
+.aboutus>p{
+    font-size:20px;
+}
+.aboutus>h2{
+    font-size: 50px;
+}
+span{
+    text-decoration:4px underline hsla(34, 100%, 52%, 0.904);
+    border: none;
+    font-size: 50px;
+    text-underline-offset: 20px;
+}
+
