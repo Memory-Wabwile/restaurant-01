@@ -125,15 +125,21 @@ button{
     width:25%;
     text-align: center;
     box-shadow: 5px 8px 10px rgb(232, 233, 235) ;
-    margin: 20px;
+    margin: 40px 10px 20px 20px;
     padding:0px 10px 10px 10px;
 
+}
+.topservices:hover{
+    background-color: rgb(232, 233, 235);
 }
 .servicesimg{
     display: flex;
     flex-wrap: wrap;
-     justify-content: space-around;
+     padding-left: 12%;
     align-content: center;
+}
+.choose{
+    text-align: center;
 }
 
 
