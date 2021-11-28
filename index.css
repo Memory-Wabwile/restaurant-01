@@ -146,6 +146,7 @@ button{
     background-size: 100% 800px;
     width: 100%;
     height:80vh;
+    
    
 }
 .rahim{
@@ -154,6 +155,13 @@ button{
     padding:70px;
     align-items: center;
     text-align: center;
+    
+}
+.clients{
+    display: flex;
+    flex-wrap: wrap;
+    margin: 100px;
+    justify-content: space-around;
 }
 
 
