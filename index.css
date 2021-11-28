@@ -160,8 +160,11 @@ button{
 .clients{
     display: flex;
     flex-wrap: wrap;
-    margin: 100px;
+    margin: 100px 200px;
     justify-content: space-around;
+}
+.rahim>span{
+    color: hsla(34, 100%, 52%, 0.904);
 }
 
 
