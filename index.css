@@ -95,6 +95,9 @@ button{
     color: hsla(34, 100%, 52%, 0.904);
     
 }
+#btn{
+    margin-left: 10%;
+}
 .thirddiv{
     background-color: rgb(232, 233, 235);
 }
