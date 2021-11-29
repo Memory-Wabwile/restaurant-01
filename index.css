@@ -166,5 +166,10 @@ button{
 .rahim>span{
     color: hsla(34, 100%, 52%, 0.904);
 }
+.served{
+    height:40vh;
+    background-image: url("images/image10.jpeg");
+    background-size: 100% 40vh;
+}
 
 
