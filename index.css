@@ -170,6 +170,17 @@ button{
     height:40vh;
     background-image: url("images/image10.jpeg");
     background-size: 100% 40vh;
+    
+}
+.overlay1{
+    background: rgb(0, 0, 0, .6);
+    height:40vh;
+    display: flex;
+    
+}
+.amount{
+    width: 20%;
+    
 }
 
 
